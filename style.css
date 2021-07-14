@@ -130,7 +130,9 @@ footer p{
 .fixture-add{
     border: 1px solid;
     padding-left: 30px;
-    width: 40%;
+    width: 550px;
+    margin: 7px ;
+
     
 }
 h4{
